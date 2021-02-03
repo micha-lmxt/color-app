@@ -2,7 +2,7 @@
 import {converter} from 'culori';
 
 	const conv = converter("rgb");
-	const canv;
+	let canv;
 </script>
 
 <main>
