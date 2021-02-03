@@ -40,7 +40,7 @@ import {onMount} from 'svelte';
 		
 	}
 
-    canvas{
+    canvas {
       background-color:rgb(233,233,222);
-      }
+    }
 </style>
