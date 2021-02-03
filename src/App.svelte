@@ -22,4 +22,4 @@ import {converter} from 'culori';
     canvas{
       background-color:rgb(233,233,222);
       }
-</style
+</style>
