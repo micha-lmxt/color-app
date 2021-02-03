@@ -16,9 +16,13 @@ import {onMount} from 'svelte';
 	           const ind = 4 * (400 * i + j);
 	           if (r > 200){
 	               data[ind]=data[ ind+1]=data[ind+2]=0;
-	               data[ ind+3]=1;
+	               data[ ind+3]=255;
 	               continue;
 	           }
+	           data[ind]=222;
+	           data[ind+1]=222;
+	           data[ind+2]=222;
+	           data[ind+3]=222;
 	           
 	        }
 	    }
